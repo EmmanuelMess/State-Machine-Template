@@ -1,0 +1,10 @@
+#ifndef CODE_MACHINESTATEID_HPP
+#define CODE_MACHINESTATEID_HPP
+
+enum class MachineStateId {
+	INITIAL,
+	A,
+	B,
+};
+
+#endif //CODE_MACHINESTATEID_HPP
